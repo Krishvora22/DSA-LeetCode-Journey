@@ -1,31 +1,37 @@
-# 📘 LeetCode Problem: Partition Labels
+# Partition Labels
 
-## 🧩 Problem Statement
-
-You are given a string `s`.  
-Partition the string into as many parts as possible **so that each letter appears in at most one part**.  
-
-Return a list of integers representing the size of these parts.
+> **Difficulty**  
+> 🟨 Medium
 
 ---
 
-### ✍️ Example 1:
+You are given a string `s`.  
+We want to partition the string into as many parts as possible so that **each letter appears in at most one part**.  
+
+After concatenating all the parts in order, the resulting string should be equal to `s`.  
+Return a list of integers representing the **size of these parts**.
+
+---
+
+## Example 1:
+
 **Input:**  
 `s = "ababcbacadefegdehijhklij"`
 
 **Output:**  
-`[9,7,8]`
+`[9, 7, 8]`
 
 **Explanation:**  
-The partitions are:  
-- `"ababcbaca"` → length 9  
-- `"defegde"` → length 7  
-- `"hijhklij"` → length 8  
-Each character appears in only one part.
+- `"ababcbaca"` → characters a, b, and c only appear here  
+- `"defegde"` → characters d, e, f only appear here  
+- `"hijhklij"` → characters h, i, j, k, l only appear here  
+
+So each character appears in only one part.
 
 ---
 
-### ✍️ Example 2:
+## Example 2:
+
 **Input:**  
 `s = "eccbbbbdec"`
 
@@ -33,3 +39,8 @@ Each character appears in only one part.
 `[10]`
 
 ---
+
+## Constraints
+
+- `1 <= s.length <= 500`
+- `s` consists of lowercase English letters only
