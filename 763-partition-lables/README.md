@@ -14,19 +14,19 @@ Return a list of integers representing the **size of these parts**.
 ---
 
 ## Example 1:
-**
-**Input:**  
+
+`Input:`  
 `s = "ababcbacadefegdehijhklij"`
 
-**Output:**  
+`Output:`  
 `[9, 7, 8]`
 
-**Explanation:**  
-- `"ababcbaca"` → characters a, b, and c only appear here  
-- `"defegde"` → characters d, e, f only appear here  
-- `"hijhklij"` → characters h, i, j, k, l only appear here  
-**
-So each character appears in only one part.
+`Explanation:`  
+`"ababcbaca"` → characters a, b, and c only appear here  
+`"defegde"`   → characters d, e, f only appear here  
+`"hijhklij"`  → characters h, i, j, k, l only appear here  
+`So each character appears in only one part.`
+ character appears in only one part.
 
 ---
 
