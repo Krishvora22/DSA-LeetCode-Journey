@@ -7,7 +7,10 @@ Given the `head` of a singly linked list, group all the nodes with **odd indices
 - The **first node** is considered **odd**, the second node is **even**, and so on.
 - Maintain the **original relative order** of nodes in both the odd and even groups.
 
+You must solve the problem in **O(1)** extra space complexity and **O(n)** time complexity.
+
 ---
+
 
 ## 📥 Input Format
 
@@ -62,7 +65,4 @@ Final order: 1 → 3 → 5 → 2 → 4
 
 ---
 
-## 👨‍💻 Java Function Signature
 
-```java
-ListNode oddEvenList(ListNode head)
