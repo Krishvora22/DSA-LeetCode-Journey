@@ -14,7 +14,7 @@ Return a list of integers representing the **size of these parts**.
 ---
 
 ## Example 1:
-
+**
 **Input:**  
 `s = "ababcbacadefegdehijhklij"`
 
@@ -25,7 +25,7 @@ Return a list of integers representing the **size of these parts**.
 - `"ababcbaca"` → characters a, b, and c only appear here  
 - `"defegde"` → characters d, e, f only appear here  
 - `"hijhklij"` → characters h, i, j, k, l only appear here  
-
+**
 So each character appears in only one part.
 
 ---
