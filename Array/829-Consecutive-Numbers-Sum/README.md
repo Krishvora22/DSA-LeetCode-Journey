@@ -19,9 +19,9 @@ Given an integer `n`, return the number of ways you can write `n` as the **sum o
 ## 🔍 Examples
 
 ### Example 1
-`Input: n = 5
-Output: 2
-Explanation: 5 = 2 + 3`
+`Input: n = 5`
+`Output: 2`
+`Explanation: 5 = 2 + 3`
 
 ### Example 2
 `Input: n = 9
