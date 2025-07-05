@@ -36,8 +36,7 @@ Given an integer `n`, return the number of ways you can write `n` as the **sum o
 ## 💡 Approach
 The sum of `k` consecutive numbers starting from `x` is:
 
-  `n = x + (x+1) + ... + (x+k-1)`
-  
+  `n = x + (x+1) + ... + (x+k-1)
     = kx + k(k - 1)/2
     = k*(2x + k - 1)/2`
 
