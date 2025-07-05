@@ -1,5 +1,6 @@
 # 📘 Number of Ways to Write `n` as a Sum of Consecutive Positive Integers
 
+
 > **Difficulty**  
 > 🟥 Hard
 
@@ -19,7 +20,9 @@ Given an integer `n`, return the number of ways you can write `n` as the **sum o
 
 ### Example 1
 Input: n = 5
+
 Output: 2
+
 Explanation: 5 = 2 + 3
 
 ### Example 2
