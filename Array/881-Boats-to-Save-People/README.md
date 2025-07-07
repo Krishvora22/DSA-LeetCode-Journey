@@ -17,7 +17,7 @@ This repository contains solutions to LeetCode problems using **Java**, with the
 - Solutions implemented in **Java**
 - Focused on **DSA concept development**
 - Problems sourced from the **LeetCode** platform
-- Code is organized for clarity and learning
+- Code is organized for clarity and learning 
 
 ---
 
