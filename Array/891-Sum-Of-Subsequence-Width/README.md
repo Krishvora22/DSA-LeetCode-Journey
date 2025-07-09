@@ -1,10 +1,3 @@
-<h2><a href="https://leetcode.com/problems/next-greater-element-iii/">Next Greater Element III</a></h2>
-<img src="https://img.shields.io/badge/Difficulty-Medium-orange" alt="Difficulty: Medium" />
-<hr>
-<p>Given a positive integer <code>n</code>, find the smallest integer which has exactly the same digits existing in the integer <code>n</code> and is greater in value than <code>n</code>. If no such positive integer exists, return <code>-1</code>.</p>
-
-<p>Note that the returned integer should fit in <code>32-bit</code> signed integer, if not, return <code>-1</code>.</p>
-
 <p>&nbsp;</p>
 <h2><a href="https://leetcode.com/problems/sum-of-subsequence-widths">Sum of Subsequence Widths</a></h2> 
 <img src='https://img.shields.io/badge/Difficulty-Hard-red' alt='Difficulty: Hard' />
