@@ -12,7 +12,7 @@ Return the number of unique paths from the top-left to bottom-right corner, avoi
 <h3>Example 1:</h3> 
 
 <p align="center">
-  <img src="https://i.ibb.co/5YnwT1g/6690d0e5-addf-4668-8c04-72f4ed96471e.png" alt="Unique Paths II Example Grid" width="200"/>
+  <img src="https://assets.leetcode.com/uploads/2020/11/04/robot1.jpg" alt="Unique Paths II Example Grid" width="200"/>
 </p>
 
 <pre>
